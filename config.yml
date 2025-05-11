@@ -118,6 +118,7 @@ params:
   # disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: true
+  # publishFuture: true # Try setting this to true
   # disableSpecial1stPost: true
   displayFullLangName: true
   ShowPostNavLinks: true
